@@ -9,3 +9,7 @@ Contains functions to create more images
 3) Realtime_Recognition.py
 
 The program captures a video from the camera and shows the current emotion
+
+Important remark:
+
+Training.py cannot be used without Augmentation.py
